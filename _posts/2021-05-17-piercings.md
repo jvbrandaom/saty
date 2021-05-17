@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Escarificações"
+title:  "Piercings"
 date:   2021-05-17
 excerpt: ""
 project: true
@@ -20,4 +20,4 @@ comments: false
   /assets/img/piercings/002.jpg
   /assets/img/piercings/003.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+{% include gallery images=images caption="Piercings" cols=3 %}
