@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Escarificações"
+date:   2021-05-17
+excerpt: ""
+project: true
+tag:
+- jekyll 
+- moon
+- blog
+- about
+- theme
+comments: false
+---
+
+## Preview
+
+{% capture images %}
+  /assets/img/piercings/001.jpg
+  /assets/img/piercings/002.jpg
+  /assets/img/piercings/003.jpg
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
