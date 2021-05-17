@@ -13,8 +13,6 @@ tag:
 comments: false
 ---
 
-## Preview
-
 {% capture images %}
   /assets/img/piercings/001.jpg
   /assets/img/piercings/002.jpg
