@@ -14,8 +14,8 @@ comments: false
 ---
 
 {% capture images %}
-  /saty/assets/img/reconstructions/001.jpg
-  /saty/assets/img/reconstructions/002.jpg
-  /saty/assets/img/reconstructions/003.jpg
+  /assets/img/reconstructions/001.jpg
+  /assets/img/reconstructions/002.jpg
+  /assets/img/reconstructions/003.jpg
 {% endcapture %}
 {% include gallery images=images caption="Reconstruções" cols=3 %}

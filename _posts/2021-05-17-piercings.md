@@ -14,8 +14,8 @@ comments: false
 ---
 
 {% capture images %}
-  /saty/assets/img/piercings/001.jpg
-  /saty/assets/img/piercings/002.jpg
-  /saty/assets/img/piercings/003.jpg
+  /assets/img/piercings/001.jpg
+  /assets/img/piercings/002.jpg
+  /assets/img/piercings/003.jpg
 {% endcapture %}
 {% include gallery images=images caption="Piercings" cols=3 %}
